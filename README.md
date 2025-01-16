@@ -1,6 +1,6 @@
 # API-JWT
 
-Postamn,
+Postman,
 Node.js,
 MongoDB,
 pacotes de npm:
